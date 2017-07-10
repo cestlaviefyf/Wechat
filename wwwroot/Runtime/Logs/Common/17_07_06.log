@@ -1,0 +1,587 @@
+[ 2017-07-06T14:20:12+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001526s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:12+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001560s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001981s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:13+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:20+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001713s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002068s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:21+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001577s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:22+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002503s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002961s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:27+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002535s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004292s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:52+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001605s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:54+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001604s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002017s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:56+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001595s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001987s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:20:58+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001579s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:21:00+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001785s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002153s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:21:03+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001606s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:21:05+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002324s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003775s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:45:25+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.004345s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004861s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:45:27+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003661s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004721s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:45:29+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003453s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004023s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T14:45:32+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.005700s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006299s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T16:47:39+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001919s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002785s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T16:50:35+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003607s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004367s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T16:54:02+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003726s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004251s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:49:18+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003886s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004362s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:51:26+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003402s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004013s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:52:33+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001835s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002809s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:52:40+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001624s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001990s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:52:52+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001761s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T17:52:55+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003597s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004064s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:11:36+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.004456s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005325s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:11:37+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004570s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:12:01+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001826s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002211s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:13:18+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003879s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004499s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:13:20+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.005036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005717s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:13:25+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003413s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003920s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:17:59+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003324s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003791s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:18:23+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003730s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004217s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:18:27+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003819s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:18:31+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003404s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004270s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:22:39+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003584s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004044s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:46:23+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003964s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004510s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:46:25+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003294s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003770s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:37+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002818s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:39+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.004105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005136s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:42+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001683s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002073s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:44+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001986s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002388s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:47+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002221s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002650s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:50+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001943s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:53+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001620s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002038s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:47:56+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001574s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:48:04+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002079s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:48:05+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001507s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001872s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T18:48:10+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002179s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:13:54+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003197s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003734s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:13:56+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003315s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003804s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:13:58+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003753s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004220s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:14:40+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003492s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004217s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:14:44+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003748s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:14:46+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003832s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:15:48+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003270s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003882s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:15:50+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003716s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:17:48+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003506s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004047s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:22:00+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003668s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004153s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:22:30+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004114s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:22:45+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003346s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003909s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:23:06+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003366s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003855s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:23:55+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003369s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004041s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:24:32+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003459s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004026s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:24:45+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003435s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003920s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:43:31+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003205s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003660s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:48:57+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003601s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:49:03+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.005445s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005936s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:49:05+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.004980s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005592s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:50:06+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003674s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004212s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:50:36+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003831s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:52:47+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003159s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003694s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:53:49+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003552s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004142s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:54:22+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003706s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:54:46+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003418s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003861s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:56:02+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003226s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003704s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:57:29+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003727s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004311s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:58:01+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003185s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003814s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:59:04+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003464s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004043s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:59:25+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003226s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003695s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T19:59:44+08:00 ] 127.0.0.1 /Public/static/jquery-2.0.3.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003233s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003741s ]
+ERR: 无法加载模块:Public
+
+[ 2017-07-06T23:50:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003606s ]
+

@@ -1,0 +1,145 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <div class="main-title">
+        <h2>
+            {$info['id']?'编辑':'新增'}租售
+            <notempty name="pid">
+                [&nbsp;父导航：<a href="{:U('index','pid='.$pid)}">{$parent.title}</a>&nbsp;]
+            </notempty>
+        </h2>
+    </div>
+    <form action="{:U()}" method="post" class="form-horizontal">
+        <input type="hidden" name="pid" value="{$pid}">
+        <div class="form-item">
+            <label class="item-label">标题<span class="check-tips"></span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="title" value="{$info.title|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">发布人<span class="check-tips"></span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="publisher" value="{$info.title|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">价格<span class="check-tips"></span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="price" value="{$info.url|default=''}">
+                单位：<select name="price_unit">
+                    <option value="0" <eq name="price_unit" value="0" >selected</eq>>元/月</option>
+                    <option value="1" <eq name="price_unit" value="1" >selected</eq>>万元</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">类型<span class="check-tips"></span></label>
+            <div class="controls">
+                <select name="type">
+                    <option value="0" <eq name="type" value="0" >selected</eq>>出售</option>
+                    <option value="1" <eq name="type" value="1" >selected</eq>>出租</option>
+                </select>
+            </div>
+        </div>
+        <div value="editor">
+            <label class="item-label">内容<span class="check-tips"></span></label>
+            <label class="textarea">
+                <textarea name="{$field.name}">{$field.value}</textarea>
+                {:hook('adminArticleEdit', array('name'=>$field['name'],'value'=>$field['value']))}
+            </label>
+        </div>
+        <div class="form-item">
+            <label class="item-label">简单描述<span class="check-tips"></span></label>
+            <div class="controls">
+                <textarea name="description" cols="100" rows="6" value="{$info.title|default=''}"></textarea>
+            </div>
+            <label class="item-label">截止日期<span class="check-tips"></span></label>
+            <div value="date">
+                <input type="text" name="{$field.name}" class="text date" value="" placeholder="请选择日期" />
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">联系人电话<span class="check-tips"></span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="tel" value="{$info.sort|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <input type="hidden" name="id" value="{$info.id|default=''}">
+            <button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
+            <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+        </div>
+    </form>
+</block>
+<block name="script">
+    <script type="text/javascript">
+        Think.setValue("pid", {$info.pid|default = 0});
+        Think.setValue("hide", {$info.hide|default = 0});
+        Think.setValue("is_dev", {$info.is_dev|default = 0});
+        //导航高亮
+        highlight_subnav('{:U('index')}');
+    </script>
+</block>
+<block name="script">
+    <link href="__STATIC__/datetimepicker/css/datetimepicker.css" rel="stylesheet" type="text/css">
+    <php>if(C('COLOR_STYLE')=='blue_color') echo '<link href="__STATIC__/datetimepicker/css/datetimepicker_blue.css" rel="stylesheet" type="text/css">';</php>
+    <link href="__STATIC__/datetimepicker/css/dropdown.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="__STATIC__/datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+    <script type="text/javascript" src="__STATIC__/datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
+    <script type="text/javascript">
+
+        $('#submit').click(function(){
+            $('#form').submit();
+        });
+
+        $(function(){
+            $('.date').datetimepicker({
+                format: 'yyyy-mm-dd',
+                language:"zh-CN",
+                minView:2,
+                autoclose:true
+            });
+            $('.time').datetimepicker({
+                format: 'yyyy-mm-dd hh:ii',
+                language:"zh-CN",
+                minView:2,
+                autoclose:true
+            });
+            showTab();
+
+            <if condition="C('OPEN_DRAFTBOX') and (ACTION_NAME eq 'add' or $info['status'] eq 3)">
+            //保存草稿
+                var interval;
+            $('#autoSave').click(function(){
+                var target_form = $(this).attr('target-form');
+                var target = $(this).attr('url')
+                var form = $('.'+target_form);
+                var query = form.serialize();
+                var that = this;
+
+                $(that).addClass('disabled').attr('autocomplete','off').prop('disabled',true);
+                $.post(target,query).success(function(data){
+                    if (data.status==1) {
+                        updateAlert(data.info ,'alert-success');
+                        $('input[name=id]').val(data.data.id);
+                    }else{
+                        updateAlert(data.info);
+                    }
+                    setTimeout(function(){
+                        $('#top-alert').find('button').click();
+                        $(that).removeClass('disabled').prop('disabled',false);
+                    },1500);
+                })
+
+                //重新开始定时器
+                clearInterval(interval);
+                autoSaveDraft();
+                return false;
+            });
+
+            </if>
+
+        });
+    </script>
+</block>
